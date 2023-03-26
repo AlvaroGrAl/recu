@@ -6,7 +6,7 @@
 package calculadora;
 
 /**
- *hiiiii alvaro
+ *hiiiii sabina
  * @author redes
  */
 public class Calculadora {
